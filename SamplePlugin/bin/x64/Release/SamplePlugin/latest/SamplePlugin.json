@@ -1,4 +1,5 @@
-{
+[
+  {
   "Author": "AJ",
   "Name": "Sample Plugin",
   "Punchline": "A short one-liner that shows up in /xlplugins.",
@@ -18,3 +19,4 @@
   "LoadPriority": 0,
   "AcceptsFeedback": true
 }
+]
