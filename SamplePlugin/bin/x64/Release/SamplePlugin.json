@@ -4,6 +4,7 @@
   "InternalName": "SamplePlugin",
   "AssemblyVersion": "0.0.0.1",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "RepoUrl": "https://github.com/WondrousAJ/AJSamplePluginTest"
   "ApplicableVersion": "any",
   "Tags": [
     "sample",
