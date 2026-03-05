@@ -1,6 +1,5 @@
 [
-  {
-  "Author": "AJ",
+  {"Author": "AJ",
   "Name": "Sample Plugin",
   "Punchline": "A short one-liner that shows up in /xlplugins.",
   "InternalName": "SamplePlugin",
@@ -17,6 +16,5 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "AcceptsFeedback": true
-}
+  "AcceptsFeedback": true}
 ]
